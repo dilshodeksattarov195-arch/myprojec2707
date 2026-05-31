@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrarse",
+        "uuid": 506209,
+        "checksum": "1zcyic"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
